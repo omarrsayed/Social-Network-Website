@@ -22,7 +22,6 @@ It supports the following functionalities:
 
 ## Few Screenshots to demonstrate website layout and interface:
 
-![alt text](https://imgur.com/QZeud9E.png)
 ![alt text](https://imgur.com/fy5FLIX.png)
 ![alt text](https://imgur.com/E6xmAgL.png)
 ![alt text](https://imgur.com/PaxbrHJ.png)
